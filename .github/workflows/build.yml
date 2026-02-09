@@ -12,43 +12,47 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    # 2. Show full repo structure (DEBUG – very important)
+    # 2. Show repo structure (PowerShell-safe)
     - name: Show repository structure
+      shell: pwsh
       run: |
-        echo "=== ROOT ==="
-        dir
-        echo "=== RECURSIVE ==="
-        dir /s
+        Write-Host "=== ROOT ==="
+        Get-ChildItem
+        Write-Host "=== BTMOB_V3.6.3ORIGNAL ==="
+        Get-ChildItem -Recurse BTMOB_V3.6.3ORIGNAL
 
     # 3. Setup NuGet
     - name: Setup NuGet
       uses: NuGet/setup-nuget@v2
 
-    # 4. Restore NuGet packages (AUTO-FIND SLN)
+    # 4. Restore NuGet packages (auto-find .sln)
     - name: Restore NuGet packages
+      shell: pwsh
       run: |
-        for /r %%f in (*.sln) do (
-          echo Restoring %%f
-          nuget restore "%%f"
-        )
+        Get-ChildItem -Recurse -Filter *.sln | ForEach-Object {
+          Write-Host "Restoring $($_.FullName)"
+          nuget restore "$($_.FullName)"
+        }
 
-    # 5. Setup MSBuild (Visual Studio)
+    # 5. Setup MSBuild
     - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v2
 
     # 6. Install WebView2 Runtime (REQUIRED)
     - name: Install WebView2 Runtime
+      shell: pwsh
       run: choco install microsoft-edge-webview2-runtime -y
 
-    # 7. Build solution (AUTO-FIND SLN)
+    # 7. Build solution (auto-find .sln)
     - name: Build solution
+      shell: pwsh
       run: |
-        for /r %%f in (*.sln) do (
-          echo Building %%f
-          msbuild "%%f" /p:Configuration=Release
-        )
+        Get-ChildItem -Recurse -Filter *.sln | ForEach-Object {
+          Write-Host "Building $($_.FullName)"
+          msbuild "$($_.FullName)" /p:Configuration=Release
+        }
 
-    # 8. Upload EXE artifact
+    # 8. Upload EXE
     - name: Upload EXE
       uses: actions/upload-artifact@v4
       with:
