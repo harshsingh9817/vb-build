@@ -1,0 +1,47 @@
+
+--- Exception Log Start ---
+Message: Object is currently in use elsewhere.
+Source: System.Drawing
+Timestamp: 2025-06-15 10:32:42
+TargetSite: CheckErrorStatus
+StackTrace: 
+   at System.Drawing.Graphics.CheckErrorStatus(Int32 status)
+   at System.Drawing.Graphics.DrawImage(Image image, Int32 x, Int32 y, Int32 width, Int32 height)
+   at System.Drawing.Graphics.DrawImage(Image image, Rectangle rect)
+   at System.Windows.Forms.PictureBox.OnPaint(PaintEventArgs pe)
+   at System.Windows.Forms.Control.PaintWithErrorHandling(PaintEventArgs e, Int16 layer)
+   at System.Windows.Forms.Control.WmPaint(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+BaseException: [2025/06/15/ 10:32:42]
+ERROR:
+
+
+
+Object is currently in use elsewhere.
+
+
+
+   at System.Drawing.Graphics.CheckErrorStatus(Int32 status)
+   at System.Drawing.Graphics.DrawImage(Image image, Int32 x, Int32 y, Int32 width, Int32 height)
+   at System.Drawing.Graphics.DrawImage(Image image, Rectangle rect)
+   at System.Windows.Forms.PictureBox.OnPaint(PaintEventArgs pe)
+   at System.Windows.Forms.Control.PaintWithErrorHandling(PaintEventArgs e, Int16 layer)
+   at System.Windows.Forms.Control.WmPaint(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+
+
+
+
+
+
+
+InnerException: 
+--- Exception Log End ---
+

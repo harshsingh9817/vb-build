@@ -1,0 +1,905 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BTMob
+</name>
+</assembly>
+<members>
+<member name="T:BTMOB.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.accesspage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.adb">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.AdbWinApi">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.AdbWinUsbApi">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.androidhead">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.app_disabled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.app_enabled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.app_locked">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.app_nolock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.app_notrak">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.app_traked">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.apps">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.appsedit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.audiosound">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.back2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.backshdw__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.battery_full">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.battery_low">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.battery_mid">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.battery_mid_mins">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.battery_mid_plus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.battery_oncharge">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.block">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.block_con">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.Block_style_black">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html lang=en&gt;
+&lt;head&gt;
+&lt;meta charset=UTF-8 /&gt;
+&lt;meta name=viewport content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+&lt;title&gt;&lt;/title&gt;
+&lt;style&gt;body{margin:0;padding:0;background-color:rgba(0,0,0,0);color:white;display:flex;justify-content:center;align-items:center;height:100vh;font-family:sans-serif;text-align:center;padding:1rem;box-sizing:border-box}.message{max-width:90vw;word-wrap:break-word}&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=message&gt;
+[MSG]
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.Block_style_btry">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html lang=en&gt;
+&lt;head&gt;
+&lt;meta charset=UTF-8 /&gt;
+&lt;meta name=viewport content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+&lt;title&gt;Battery Dead&lt;/title&gt;
+&lt;style&gt;html,body{margin:0;padding:0;background-color:rgba(0, 0, 0, 0);height:100%;width:100%;display:flex;justify-content:center;align-items:center}.battery-vertical{width:60px;height:120px;border:4px solid #4c5b66;opacity:.7;background-color:#4c5b66;position:relative;display:flex;justify-content:center;align-items:center;box-sizing:border-box} [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.Block_style_locked">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html lang=[LNG]&gt;
+&lt;head&gt;
+&lt;meta charset=UTF-8 /&gt;
+&lt;meta name=viewport content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+&lt;title&gt;Device Locked&lt;/title&gt;
+&lt;style&gt;*{margin:0;padding:0;box-sizing:border-box}body{background-color:#00000000;color:#fff;font-family:sans-serif;height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:20px}.lock-icon{font-size:48px;margin-bottom:20px}.title{font-size:20px;font-weight:bold;margin-bottom:10px}.s [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.Block_style_update">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html lang=[LNG]&gt;
+&lt;head&gt;
+&lt;meta name=viewport content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+&lt;title&gt;System Update&lt;/title&gt;
+&lt;style&gt;body{margin:0;padding:0;background:#00000000;font-family:&apos;Helvetica Neue&apos;,sans-serif;display:flex;flex-direction:column;justify-content:center;align-items:center;height:100vh;text-align:center;color:#fff}.message{font-size:1.0rem;padding:0 20px}.warning{position:absolute;bottom:30px;font-size:.9rem;color:#ff4c4c}@media(max-width:400px){.message{font-size:1rem [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.botblue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.botface">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.browser">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.BTBOTS">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.btchat">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;Chat UI&lt;/title&gt;
+    &lt;style&gt;
+        body {
+            margin: 0;
+            font-family: sans-serif;
+            background-color: #000000;
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            cursor: pointer;
+            -webkit-tap-highlight-color: rgba(0, 0, [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.btloader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.bttl">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.btunkown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.callforword">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.callphone">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.camera">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.cell_tower_24dp_FFFFFF_FILL1_wght100_GRAD0_opsz24">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.chat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.clear">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.clientupdater">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;[LNG]&quot;&gt;
+
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;Client Version Dashboard&lt;/title&gt;
+    &lt;style&gt;
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+            background: #000;
+            color: #f0f0f0;
+            cursor: pointer;
+            -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+            -webkit-tap-highlight-color: tran [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.clipico">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.cloneapp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.cloneicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.connections">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.contacts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.copy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.cut">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.dailer">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot; /&gt;
+    &lt;title&gt;Modern Call Keyboard&lt;/title&gt;
+    &lt;style&gt;
+        * {
+            touch-action: manipulation;
+        }
+
+        body {
+            margin: 0;
+            font-family: &apos;Segoe UI&apos;, sans-serif;
+            background: #000000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            heig [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.Deafult_mob_optns">
+<summary>
+  Looks up a localized string similar to {&quot;Activities&quot;:&quot;0&quot;,&quot;keystrokes&quot;:&quot;1&quot;,&quot;notifications&quot;:&quot;1&quot;,&quot;visitedapps&quot;:&quot;0&quot;,&quot;visitedlinks&quot;:&quot;0&quot;,&quot;livenotify&quot;:&quot;0&quot;,&quot;livescreen&quot;:&quot;0&quot;,&quot;autoj&quot;:&quot;0&quot;}.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.delapp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.disconect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.displeapp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.editclint">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.editnote">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.enblapp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.encryptoff">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.encrypton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.error_img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.exs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.eye_off">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.eye_on">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.filesmanage">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.gotodir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.idcard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.info">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.info_blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.ject">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.ject_active">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.ject_off">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.ject_on">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.ject1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.keyboard">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.load">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+  &lt;meta charset=&quot;UTF-8&quot; /&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;/&gt;
+  &lt;title&gt;Login Loading&lt;/title&gt;
+  &lt;style&gt;
+    body {
+      margin: 0;
+      background-color:#000000;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      color: white;
+      font-family: Arial, sans-serif;
+    }
+
+    img {
+      max-width: 200px;
+      margin-bottom: [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.localstore">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.location">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.lock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.lock1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.lockapp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.lockscr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.logoup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.map">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html&gt;
+
+&lt;head&gt;
+  &lt;meta charset=&quot;utf-8&quot; /&gt;
+  &lt;title&gt;Live Map&lt;/title&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;initial-scale=1,maximum-scale=1,user-scalable=no&quot; /&gt;
+
+  &lt;script src=&apos;https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js?v2&apos;&gt;&lt;/script&gt;
+  &lt;link href=&apos;https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.css?v2&apos; rel=&apos;stylesheet&apos; /&gt;
+  &lt;script&gt;
+    mapboxgl.accessToken = &apos;pk.eyJ1IjoiYWxleGtvc21hcyIsImEiOiJjbTk5c2V2MDIwZXZpMmpzZXIwZWFuaXg4In0.-9uPYTPiaZw3aPrMGWMANw&apos;;
+    let map; [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.microphone">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.myico">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.mylogo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.net_2g">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.net_3g">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.net_4g">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.net_5g">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.net_vpn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.newfolder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.no">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.no_con">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.noject">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.notes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.notrkapp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.off_lock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.ok">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.ok_con">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.on_lock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.one_ok_con">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.open">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.paste">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.profile">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.redirect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.redirect1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.renamef">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.restart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.robot_filled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.scr_load">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.scr_off">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.scr_on">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.screen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.screnrader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.screnrader1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.sendto">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.sms">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.speech">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.startapp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.sync_1x_1_0s_417px_417px_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.terminal">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;Web Terminal&lt;/title&gt;
+    &lt;style&gt;
+        body {
+            margin: 0;
+            background-color: black;
+            color: lime;
+            font-family: monospace;
+            font-size: 14px;
+            padding: 10px;
+        }
+
+        #terminal {
+            width: 100%;
+            min-height: 100vh;
+            display: f [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.terminalc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.texttispeech">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.TIT__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.toast">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.toolbar">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;[LNG]&quot;&gt;
+
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot; /&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+    &lt;title&gt;Transparent Bottom Toolbar&lt;/title&gt;
+    &lt;style&gt;
+        body {
+            margin: 0;
+            background-color: black;
+            color: white;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            justify-content: flex-end;
+            font-family: sans-serif;
+        }
+
+    [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.tools">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.track">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.trkapp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.uninstall">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.unlokapp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.upload">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.uploading">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.vibratmobe">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.vidp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.wallpaper">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.warning_img">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.wifi">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.xstop">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BTMOB.My.Resources.Resources.zipf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

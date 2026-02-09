@@ -1,0 +1,1236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|d:\\bytes\\btmob\\btmob_v3.6orignal\\btmob\\forms\\settingsfrm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\forms\\settingsfrm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\forms\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\networks\\websocketclient.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\networks\\websocketclient.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\networks\\btengine.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\networks\\btengine.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\networks\\btcommand.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\networks\\btcommand.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\networks\\messageshandler.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\networks\\messageshandler.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\networks\\useraccount.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\networks\\useraccount.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\networks\\myserver.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\networks\\myserver.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BTMOB||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\classes\\btconst.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\classes\\btconst.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\loader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\loader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\forms\\ijectionlab.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\forms\\ijectionlab.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\classes\\myres.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\classes\\myres.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\forms\\apkmaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\forms\\apkmaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\forms\\apkmaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\forms\\apkmaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\classes\\codes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\classes\\codes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\botsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\botsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\clientsupdater.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\clientsupdater.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\forms\\androidviewer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\forms\\androidviewer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\forms\\androidviewer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\forms\\androidviewer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\botsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\botsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\classes\\btregistry.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\classes\\btregistry.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\appsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\appsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\resources\\btbots.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\resources\\btbots.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\forms\\settingsfrm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\forms\\settingsfrm.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\clipboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\clipboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\clipboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\clipboard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\botsmanager.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\botsmanager.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\filesmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\filesmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\filesmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\filesmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\basestyle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\basestyle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\basestyle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\basestyle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\callforwarding.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\callforwarding.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\callforwarding.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\callforwarding.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\terminal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\terminal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\cameramonitor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\cameramonitor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\networks\\btclient.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\networks\\btclient.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\appsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\appsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\btbroadcast.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\btbroadcast.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\loader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\loader.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\btbroadcast.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\btbroadcast.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\chat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\chat.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\phonecaller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\phonecaller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\blockstyle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\blockstyle.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\phonecaller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\phonecaller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\my project\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\my project\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\resources\\load.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\resources\\load.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\updatewindow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\updatewindow.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\terminal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\terminal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\forms\\btapps.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\forms\\btapps.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\redirector.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\redirector.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\smsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\smsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\smsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\smsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\classes\\tagsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\classes\\tagsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\resources\\terminal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\resources\\terminal.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\forms\\btapps.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\forms\\btapps.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\profile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\profile.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\ttsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\ttsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\cameramonitor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\cameramonitor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\smsmaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\smsmaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\screenmonitor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\screenmonitor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\contactsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\contactsmanager.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\resources\\btchat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\resources\\btchat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\btnotes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\btnotes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\myinputs.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\myinputs.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\myinputs.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\myinputs.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\chat.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\chat.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\resources\\clientupdater.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\resources\\clientupdater.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\resources\\toolbar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\resources\\toolbar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\classes\\bttabcontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\classes\\bttabcontrol.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\locationmap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\locationmap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\locationmap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\locationmap.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\tools\\lockscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\tools\\lockscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\classes\\debuger.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\classes\\debuger.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\jectormaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\jectormaker.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\forms\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\forms\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\btmob\\dialogs\\vidplayer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{89C99534-5AC9-4FA5-8D12-D9A895861E07}|BTMOB\\BTMOB.vbproj|solutionrelative:btmob\\dialogs\\vidplayer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebSocketClient.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\WebSocketClient.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Networks\\WebSocketClient.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\WebSocketClient.vb",
+              "RelativeToolTip": "BTMOB\\Networks\\WebSocketClient.vb",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAwLUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BTEngine.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\BTEngine.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Networks\\BTEngine.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\BTEngine.vb",
+              "RelativeToolTip": "BTMOB\\Networks\\BTEngine.vb",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAiwGwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "loader.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\loader.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\loader.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\loader.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\loader.vb",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAQwO8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyRes.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\MyRes.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Classes\\MyRes.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\MyRes.vb",
+              "RelativeToolTip": "BTMOB\\Classes\\MyRes.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BTConst.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\BTConst.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Classes\\BTConst.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\BTConst.vb",
+              "RelativeToolTip": "BTMOB\\Classes\\BTConst.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessagesHandler.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\MessagesHandler.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Networks\\MessagesHandler.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\MessagesHandler.vb",
+              "RelativeToolTip": "BTMOB\\Networks\\MessagesHandler.vb",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BTCommand.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\BTCommand.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Networks\\BTCommand.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\BTCommand.vb",
+              "RelativeToolTip": "BTMOB\\Networks\\BTCommand.vb",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApkMaker.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\ApkMaker.vb",
+              "RelativeDocumentMoniker": "BTMOB\\forms\\ApkMaker.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\ApkMaker.vb",
+              "RelativeToolTip": "BTMOB\\forms\\ApkMaker.vb",
+              "ViewState": "AQIAAKQGAAAAAAAAAAAqwKsGAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\Form1.vb",
+              "RelativeDocumentMoniker": "BTMOB\\forms\\Form1.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\Form1.vb [Design]*",
+              "RelativeToolTip": "BTMOB\\forms\\Form1.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\Form1.vb",
+              "RelativeDocumentMoniker": "BTMOB\\forms\\Form1.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\Form1.vb*",
+              "RelativeToolTip": "BTMOB\\forms\\Form1.vb*",
+              "ViewState": "AgIAAFYJAAAAAAAAAAAAwPoIAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "settingsfrm.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\settingsfrm.vb",
+              "RelativeDocumentMoniker": "BTMOB\\forms\\settingsfrm.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\settingsfrm.vb [Design]*",
+              "RelativeToolTip": "BTMOB\\forms\\settingsfrm.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.583Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "useraccount.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\useraccount.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Networks\\useraccount.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\useraccount.vb",
+              "RelativeToolTip": "BTMOB\\Networks\\useraccount.vb",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BTMOB",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\BTMOB.vbproj",
+              "RelativeDocumentMoniker": "BTMOB\\BTMOB.vbproj",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\BTMOB.vbproj",
+              "RelativeToolTip": "BTMOB\\BTMOB.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-08-11T00:42:08.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApkMaker.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\ApkMaker.vb",
+              "RelativeDocumentMoniker": "BTMOB\\forms\\ApkMaker.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\forms\\ApkMaker.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BotsManager.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\BotsManager.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\BotsManager.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\tools\\BotsManager.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyServer.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\MyServer.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Networks\\MyServer.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\MyServer.vb",
+              "RelativeToolTip": "BTMOB\\Networks\\MyServer.vb",
+              "ViewState": "AQIAAEoBAAAAAAAAAAAAABkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ijectionlab.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\ijectionlab.vb",
+              "RelativeDocumentMoniker": "BTMOB\\forms\\ijectionlab.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\ijectionlab.vb",
+              "RelativeToolTip": "BTMOB\\forms\\ijectionlab.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Clientsupdater.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\Clientsupdater.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\Clientsupdater.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\Clientsupdater.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\Clientsupdater.vb",
+              "ViewState": "AQIAAFwAAAAAAAAAAADgv2oAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AndroidViewer.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\AndroidViewer.vb",
+              "RelativeDocumentMoniker": "BTMOB\\forms\\AndroidViewer.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\AndroidViewer.vb",
+              "RelativeToolTip": "BTMOB\\forms\\AndroidViewer.vb",
+              "ViewState": "AQIAAGkBAAAAAAAAAAAAwDUBAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AndroidViewer.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\AndroidViewer.vb",
+              "RelativeDocumentMoniker": "BTMOB\\forms\\AndroidViewer.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\forms\\AndroidViewer.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "codes.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\codes.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Classes\\codes.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\codes.vb",
+              "RelativeToolTip": "BTMOB\\Classes\\codes.vb",
+              "ViewState": "AQIAAP4CAAAAAAAAAAA6wAQDAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BotsManager.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\BotsManager.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\BotsManager.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\BotsManager.vb",
+              "RelativeToolTip": "BTMOB\\tools\\BotsManager.vb",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BTRegistry.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\BTRegistry.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Classes\\BTRegistry.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\BTRegistry.vb",
+              "RelativeToolTip": "BTMOB\\Classes\\BTRegistry.vb",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwF8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "settingsfrm.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\settingsfrm.vb",
+              "RelativeDocumentMoniker": "BTMOB\\forms\\settingsfrm.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\settingsfrm.vb*",
+              "RelativeToolTip": "BTMOB\\forms\\settingsfrm.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppsManager.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\AppsManager.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\AppsManager.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\tools\\AppsManager.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BTBOTS.html",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Resources\\BTBOTS.html",
+              "RelativeDocumentMoniker": "BTMOB\\Resources\\BTBOTS.html",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Resources\\BTBOTS.html",
+              "RelativeToolTip": "BTMOB\\Resources\\BTBOTS.html",
+              "ViewState": "AQIAABUEAAAAAAAAAAAUwDsEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-30T11:28:58.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Clipboard.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\Clipboard.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\Clipboard.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\tools\\Clipboard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BotsManager.Designer.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\BotsManager.Designer.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\BotsManager.Designer.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\BotsManager.Designer.vb",
+              "RelativeToolTip": "BTMOB\\tools\\BotsManager.Designer.vb",
+              "ViewState": "AQIAALQBAAAAAAAAAAAqwMcBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-11-30T11:28:58.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Clipboard.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\Clipboard.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\Clipboard.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\Clipboard.vb",
+              "RelativeToolTip": "BTMOB\\tools\\Clipboard.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "filesmanager.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\filesmanager.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\filesmanager.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\filesmanager.vb",
+              "RelativeToolTip": "BTMOB\\tools\\filesmanager.vb",
+              "ViewState": "AQIAAH8CAAAAAAAAAAAAwI8CAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "filesmanager.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\filesmanager.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\filesmanager.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\tools\\filesmanager.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "basestyle.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\basestyle.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\basestyle.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\basestyle.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\basestyle.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "callforwarding.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\callforwarding.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\callforwarding.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\dialogs\\callforwarding.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "basestyle.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\basestyle.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\basestyle.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\dialogs\\basestyle.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "callforwarding.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\callforwarding.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\callforwarding.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\callforwarding.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\callforwarding.vb",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAcwEwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "terminal.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\terminal.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\terminal.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\tools\\terminal.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CameraMonitor.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\CameraMonitor.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\CameraMonitor.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\tools\\CameraMonitor.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BTClient.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\BTClient.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Networks\\BTClient.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Networks\\BTClient.vb",
+              "RelativeToolTip": "BTMOB\\Networks\\BTClient.vb",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppsManager.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\AppsManager.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\AppsManager.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\AppsManager.vb",
+              "RelativeToolTip": "BTMOB\\tools\\AppsManager.vb",
+              "ViewState": "AQIAABECAAAAAAAAAAAqwCcCAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BTBroadcast.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\BTBroadcast.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\BTBroadcast.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\dialogs\\BTBroadcast.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "loader.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\loader.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\loader.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\dialogs\\loader.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Chat.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\Chat.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\Chat.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\Chat.vb",
+              "RelativeToolTip": "BTMOB\\tools\\Chat.vb",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BTBroadcast.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\BTBroadcast.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\BTBroadcast.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\BTBroadcast.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\BTBroadcast.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "phonecaller.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\phonecaller.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\phonecaller.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\dialogs\\phonecaller.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "blockstyle.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\blockstyle.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\blockstyle.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\blockstyle.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\blockstyle.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "phonecaller.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\phonecaller.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\phonecaller.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\phonecaller.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\phonecaller.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\My Project\\Resources.resx",
+              "RelativeDocumentMoniker": "BTMOB\\My Project\\Resources.resx",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\My Project\\Resources.resx",
+              "RelativeToolTip": "BTMOB\\My Project\\Resources.resx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAEwGACAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-30T11:28:58.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "load.html",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Resources\\load.html",
+              "RelativeDocumentMoniker": "BTMOB\\Resources\\load.html",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Resources\\load.html",
+              "RelativeToolTip": "BTMOB\\Resources\\load.html",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-30T11:28:58.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "updatewindow.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\updatewindow.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\updatewindow.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\updatewindow.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\updatewindow.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "terminal.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\terminal.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\terminal.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\terminal.vb",
+              "RelativeToolTip": "BTMOB\\tools\\terminal.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BTApps.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\BTApps.vb",
+              "RelativeDocumentMoniker": "BTMOB\\forms\\BTApps.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\BTApps.vb",
+              "RelativeToolTip": "BTMOB\\forms\\BTApps.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Redirector.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\Redirector.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\Redirector.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\Redirector.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\Redirector.vb",
+              "ViewState": "AQIAADYAAAAAAAAAAAAqwEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SmsManager.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\SmsManager.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\SmsManager.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\SmsManager.vb",
+              "RelativeToolTip": "BTMOB\\tools\\SmsManager.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SmsManager.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\SmsManager.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\SmsManager.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\tools\\SmsManager.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "terminal.html",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Resources\\terminal.html",
+              "RelativeDocumentMoniker": "BTMOB\\Resources\\terminal.html",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Resources\\terminal.html",
+              "RelativeToolTip": "BTMOB\\Resources\\terminal.html",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-30T11:28:58.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TagsManager.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\TagsManager.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Classes\\TagsManager.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\TagsManager.vb",
+              "RelativeToolTip": "BTMOB\\Classes\\TagsManager.vb",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwC8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BTApps.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\BTApps.vb",
+              "RelativeDocumentMoniker": "BTMOB\\forms\\BTApps.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\forms\\BTApps.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "profile.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\profile.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\profile.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\profile.vb",
+              "RelativeToolTip": "BTMOB\\tools\\profile.vb",
+              "ViewState": "AQIAADABAAAAAAAAAAAqwDgBAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ttsform.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\ttsform.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\ttsform.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\ttsform.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\ttsform.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CameraMonitor.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\CameraMonitor.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\CameraMonitor.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\CameraMonitor.vb",
+              "RelativeToolTip": "BTMOB\\tools\\CameraMonitor.vb",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "SMSmaker.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\SMSmaker.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\SMSmaker.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\SMSmaker.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\SMSmaker.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ScreenMonitor.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\ScreenMonitor.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\ScreenMonitor.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\tools\\ScreenMonitor.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ContactsManager.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\ContactsManager.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\ContactsManager.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\ContactsManager.vb",
+              "RelativeToolTip": "BTMOB\\tools\\ContactsManager.vb",
+              "ViewState": "AQIAAMYAAAAAAAAAAADwv9IAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "btchat.html",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Resources\\btchat.html",
+              "RelativeDocumentMoniker": "BTMOB\\Resources\\btchat.html",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Resources\\btchat.html",
+              "RelativeToolTip": "BTMOB\\Resources\\btchat.html",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAswJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-30T11:28:58.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "btNotes.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\btNotes.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\btNotes.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\dialogs\\btNotes.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "myinputs.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\myinputs.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\myinputs.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\dialogs\\myinputs.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "myinputs.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\myinputs.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\myinputs.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\myinputs.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\myinputs.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Chat.Designer.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\Chat.Designer.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\Chat.Designer.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\Chat.Designer.vb",
+              "RelativeToolTip": "BTMOB\\tools\\Chat.Designer.vb",
+              "ViewState": "AQIAADEAAAAAAAAAAAAqwDUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2025-11-30T11:28:58.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "clientupdater.html",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Resources\\clientupdater.html",
+              "RelativeDocumentMoniker": "BTMOB\\Resources\\clientupdater.html",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Resources\\clientupdater.html",
+              "RelativeToolTip": "BTMOB\\Resources\\clientupdater.html",
+              "ViewState": "AQIAAE8BAAAAAAAAAAAUwF0BAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-30T11:28:58.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "toolbar.html",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Resources\\toolbar.html",
+              "RelativeDocumentMoniker": "BTMOB\\Resources\\toolbar.html",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Resources\\toolbar.html",
+              "RelativeToolTip": "BTMOB\\Resources\\toolbar.html",
+              "ViewState": "AQIAAJsBAAAAAAAAAAAAAKUBAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-30T11:28:58.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "BTtabcontrol.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\BTtabcontrol.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Classes\\BTtabcontrol.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\BTtabcontrol.vb",
+              "RelativeToolTip": "BTMOB\\Classes\\BTtabcontrol.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "LocationMap.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\LocationMap.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\LocationMap.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\LocationMap.vb",
+              "RelativeToolTip": "BTMOB\\tools\\LocationMap.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "LocationMap.vb [Design]",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\LocationMap.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\LocationMap.vb",
+              "ToolTip": "C:\\Users\\EvilWolf\\source\\repos\\BTMob\\BTMOB\\tools\\LocationMap.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "lockscreen.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\lockscreen.vb",
+              "RelativeDocumentMoniker": "BTMOB\\tools\\lockscreen.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\tools\\lockscreen.vb",
+              "RelativeToolTip": "BTMOB\\tools\\lockscreen.vb",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAmwG0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Debuger.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\Debuger.vb",
+              "RelativeDocumentMoniker": "BTMOB\\Classes\\Debuger.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\Classes\\Debuger.vb",
+              "RelativeToolTip": "BTMOB\\Classes\\Debuger.vb",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "jectormaker.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\jectormaker.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\jectormaker.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\jectormaker.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\jectormaker.vb",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "BTMOB\\forms\\Form1.Designer.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\forms\\Form1.Designer.vb*",
+              "RelativeToolTip": "BTMOB\\forms\\Form1.Designer.vb*",
+              "ViewState": "AgIAAJ8CAAAAAAAAAAAAAKACAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-30T11:28:58.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "vidplayer.vb",
+              "DocumentMoniker": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\vidplayer.vb",
+              "RelativeDocumentMoniker": "BTMOB\\dialogs\\vidplayer.vb",
+              "ToolTip": "D:\\bytes\\btmob\\BTMOB_V3.6ORIGNAL\\BTMOB\\dialogs\\vidplayer.vb",
+              "RelativeToolTip": "BTMOB\\dialogs\\vidplayer.vb",
+              "ViewState": "AQIAAA8AAAAAAAAAAAASwCIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-11-30T11:28:58.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

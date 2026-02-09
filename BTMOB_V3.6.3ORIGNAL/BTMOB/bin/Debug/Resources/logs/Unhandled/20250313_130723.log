@@ -1,0 +1,53 @@
+
+--- Exception Log Start ---
+Message: Item has already been added. Key in dictionary: ' '  Key being added: ' '
+Source: mscorlib
+Timestamp: 2025-03-13 13:07:23
+TargetSite: Insert
+StackTrace: 
+   at System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   at System.Collections.Hashtable.Add(Object key, Object value)
+   at System.Configuration.SettingsPropertyCollection.Add(SettingsProperty property)
+   at System.Configuration.ApplicationSettingsBase.EnsureInitialized()
+   at System.Configuration.ApplicationSettingsBase.get_Properties()
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at  .″. ()
+   at  .⁣. .MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_0(Object state)
+BaseException: [2025/03/13/ 13:07:23]
+ERROR:
+
+
+
+Item has already been added. Key in dictionary: ' '  Key being added: ' '
+
+
+
+   at System.Collections.Hashtable.Insert(Object key, Object nvalue, Boolean add)
+   at System.Collections.Hashtable.Add(Object key, Object value)
+   at System.Configuration.SettingsPropertyCollection.Add(SettingsProperty property)
+   at System.Configuration.ApplicationSettingsBase.EnsureInitialized()
+   at System.Configuration.ApplicationSettingsBase.get_Properties()
+   at System.Configuration.SettingsBase.GetPropertyValueByName(String propertyName)
+   at System.Configuration.SettingsBase.get_Item(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.GetPropertyValue(String propertyName)
+   at System.Configuration.ApplicationSettingsBase.get_Item(String propertyName)
+   at  .″. ()
+   at  .⁣. .MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.<>c.<ThrowAsync>b__6_0(Object state)
+
+
+
+
+
+
+
+
+InnerException: 
+--- Exception Log End ---
+

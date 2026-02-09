@@ -1,0 +1,81 @@
+
+--- Exception Log Start ---
+Message: The type initializer for 'System.Text.Json.JsonSerializer' threw an exception.
+Source: System.Text.Json
+Timestamp: 2025-07-22 11:12:42
+TargetSite: get_IsReflectionEnabledByDefault
+StackTrace: 
+   at System.Text.Json.JsonSerializer.get_IsReflectionEnabledByDefault()
+   at System.Text.Json.JsonSerializerOptions.ConfigureForJsonSerializer()
+   at System.Text.Json.JsonSerializer.GetTypeInfo(JsonSerializerOptions options, Type inputType)
+   at System.Text.Json.JsonSerializer.GetTypeInfo[T](JsonSerializerOptions options)
+   at System.Text.Json.JsonSerializer.Serialize[TValue](TValue value, JsonSerializerOptions options)
+   at BTMOB.TagsManager.SaveTags()
+   at BTMOB.TagsManager.AddTag(String tag)
+   at BTMOB.TagsManager.LoadTags()
+   at BTMOB.TagsManager..ctor()
+   at BTMOB.ApkMaker.ApkMaker_Load(Object sender, EventArgs e)
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+BaseException: [2025/07/22/ 11:12:42]
+ERROR:
+
+
+
+The type initializer for 'System.Text.Json.JsonSerializer' threw an exception.
+
+
+
+   at System.Text.Json.JsonSerializer.get_IsReflectionEnabledByDefault()
+   at System.Text.Json.JsonSerializerOptions.ConfigureForJsonSerializer()
+   at System.Text.Json.JsonSerializer.GetTypeInfo(JsonSerializerOptions options, Type inputType)
+   at System.Text.Json.JsonSerializer.GetTypeInfo[T](JsonSerializerOptions options)
+   at System.Text.Json.JsonSerializer.Serialize[TValue](TValue value, JsonSerializerOptions options)
+   at BTMOB.TagsManager.SaveTags()
+   at BTMOB.TagsManager.AddTag(String tag)
+   at BTMOB.TagsManager.LoadTags()
+   at BTMOB.TagsManager..ctor()
+   at BTMOB.ApkMaker.ApkMaker_Load(Object sender, EventArgs e)
+   at System.Windows.Forms.Form.OnLoad(EventArgs e)
+   at System.Windows.Forms.Form.OnCreateControl()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.WmShowWindow(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   at System.Windows.Forms.Form.WmShowWindow(Message& m)
+   at System.Windows.Forms.Form.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+
+
+The type initializer for 'PerTypeValues`1' threw an exception.
+
+
+
+   at System.SpanHelpers.IsReferenceOrContainsReferences[T]()
+   at System.ReadOnlySpan`1..ctor(Void* pointer, Int32 length)
+   at System.Text.Json.JsonSerializer..cctor()
+
+
+
+
+
+
+
+
+InnerException: The type initializer for 'PerTypeValues`1' threw an exception.
+--- Exception Log End ---
+

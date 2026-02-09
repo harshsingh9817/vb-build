@@ -1,0 +1,45 @@
+
+--- Exception Log Start ---
+Message: Parameter is not valid.
+Source: System.Drawing
+Timestamp: 2025-04-15 03:28:45
+TargetSite: get_Width
+StackTrace: 
+   at System.Drawing.Image.get_Width()
+   at System.Windows.Forms.PictureBox.ImageRectangleFromSizeMode(PictureBoxSizeMode mode)
+   at System.Windows.Forms.PictureBox.OnPaint(PaintEventArgs pe)
+   at System.Windows.Forms.Control.PaintWithErrorHandling(PaintEventArgs e, Int16 layer)
+   at System.Windows.Forms.Control.WmPaint(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+BaseException: [2025/04/15/ 03:28:45]
+ERROR:
+
+
+
+Parameter is not valid.
+
+
+
+   at System.Drawing.Image.get_Width()
+   at System.Windows.Forms.PictureBox.ImageRectangleFromSizeMode(PictureBoxSizeMode mode)
+   at System.Windows.Forms.PictureBox.OnPaint(PaintEventArgs pe)
+   at System.Windows.Forms.Control.PaintWithErrorHandling(PaintEventArgs e, Int16 layer)
+   at System.Windows.Forms.Control.WmPaint(Message& m)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+
+
+
+
+
+
+
+InnerException: 
+--- Exception Log End ---
+
