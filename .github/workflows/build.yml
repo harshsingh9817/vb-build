@@ -1,4 +1,4 @@
-name: Build VB.NET EXE
+name: Build VB.NET EXE (Windows)
 
 on:
   workflow_dispatch:
@@ -8,27 +8,50 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    - name: Checkout repo
+    # 1. Checkout code
+    - name: Checkout repository
       uses: actions/checkout@v4
 
+    # 2. Show full repo structure (DEBUG – very important)
+    - name: Show repository structure
+      run: |
+        echo "=== ROOT ==="
+        dir
+        echo "=== RECURSIVE ==="
+        dir /s
+
+    # 3. Setup NuGet
     - name: Setup NuGet
       uses: NuGet/setup-nuget@v2
 
+    # 4. Restore NuGet packages (AUTO-FIND SLN)
     - name: Restore NuGet packages
-      run: nuget restore BTMOB_V3.6.3ORIGNAL/BTMOB.sln
+      run: |
+        for /r %%f in (*.sln) do (
+          echo Restoring %%f
+          nuget restore "%%f"
+        )
 
+    # 5. Setup MSBuild (Visual Studio)
     - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v2
 
+    # 6. Install WebView2 Runtime (REQUIRED)
     - name: Install WebView2 Runtime
       run: choco install microsoft-edge-webview2-runtime -y
 
+    # 7. Build solution (AUTO-FIND SLN)
     - name: Build solution
-      run: msbuild BTMOB_V3.6.3ORIGNAL/BTMOB.sln /p:Configuration=Release
+      run: |
+        for /r %%f in (*.sln) do (
+          echo Building %%f
+          msbuild "%%f" /p:Configuration=Release
+        )
 
+    # 8. Upload EXE artifact
     - name: Upload EXE
       uses: actions/upload-artifact@v4
       with:
-        name: BTMob-EXE
+        name: Built-EXE
         path: |
           **/bin/Release/*.exe
