@@ -8,24 +8,20 @@ jobs:
     runs-on: windows-latest
 
     steps:
-    # 1. Checkout code
     - name: Checkout repository
       uses: actions/checkout@v4
 
-    # 2. Show repo structure (PowerShell-safe)
     - name: Show repository structure
       shell: pwsh
       run: |
         Write-Host "=== ROOT ==="
         Get-ChildItem
-        Write-Host "=== BTMOB_V3.6.3ORIGNAL ==="
+        Write-Host "=== PROJECT ==="
         Get-ChildItem -Recurse BTMOB_V3.6.3ORIGNAL
 
-    # 3. Setup NuGet
     - name: Setup NuGet
       uses: NuGet/setup-nuget@v2
 
-    # 4. Restore NuGet packages (auto-find .sln)
     - name: Restore NuGet packages
       shell: pwsh
       run: |
@@ -34,16 +30,9 @@ jobs:
           nuget restore "$($_.FullName)"
         }
 
-    # 5. Setup MSBuild
     - name: Setup MSBuild
       uses: microsoft/setup-msbuild@v2
 
-    # 6. Install WebView2 Runtime (REQUIRED)
-    - name: Install WebView2 Runtime
-      shell: pwsh
-      run: choco install microsoft-edge-webview2-runtime -y
-
-    # 7. Build solution (auto-find .sln)
     - name: Build solution
       shell: pwsh
       run: |
@@ -52,7 +41,6 @@ jobs:
           msbuild "$($_.FullName)" /p:Configuration=Release
         }
 
-    # 8. Upload EXE
     - name: Upload EXE
       uses: actions/upload-artifact@v4
       with:
